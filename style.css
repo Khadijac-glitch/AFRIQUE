@@ -254,8 +254,10 @@
         margin: auto;
     }
     .section4 .row{
-        width:415px;
-        height:1000px;
+        width:425px;
+        height:1500px;
+        background: orange;
+        background-image: none;
         
     }
     /*******************FOOTER******************  */
