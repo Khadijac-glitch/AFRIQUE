@@ -23,10 +23,10 @@
 }
 .header_wrapper .nav-item .nav-link{
     position: relative;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 500;
     color:black;
-    display: inline-block;
+    /* display: inline-block; */
 }
 .header_wrapper .nav-item .nav-link::after{
     position: absolute;
