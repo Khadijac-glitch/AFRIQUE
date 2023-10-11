@@ -12,6 +12,12 @@
     background: #2B4558;
     
 }
+.section3 .copy{
+    position: relative;
+    top:150px;
+    font-size: 13px;
+    color: aliceblue;
+}
 @media(max-width:991px) {
 
     .section3 {

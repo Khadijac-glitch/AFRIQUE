@@ -110,6 +110,11 @@ iframe{
         position: relative;
         height: 1000px;
     }
+    .section5 .copy{
+        position: relative;
+        left: 0px;
+       
+    }
     .nav-item .btn{
         height: 40px;
         width: 210px;

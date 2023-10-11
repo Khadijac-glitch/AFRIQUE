@@ -77,6 +77,12 @@
     color: aliceblue;
     
 }
+.section3 .copy{
+    position: relative;
+    top:150px;
+    font-size: 13px;
+    color: aliceblue;
+}
 .footer-box{
     color: aliceblue;
     font-size: 15px;
