@@ -140,6 +140,10 @@
         .header_wrapper .nav-item .nav-link{
             margin-top: 15px;
         }
+        .header_wrapper .navbar-brand img{
+            max-width: 150px;
+            height: auto;
+        }
         .wow{
             display: flex;
             flex-direction: column;

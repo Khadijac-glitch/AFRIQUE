@@ -53,6 +53,10 @@
     border-color: 2px solid rgb(224, 168, 63);
     
 }
+.header_wrapper .navbar-brand img{
+    max-width: 150px;
+    height: auto;
+}
  .header-scrolled{
     position: fixed;
     top: 0;
