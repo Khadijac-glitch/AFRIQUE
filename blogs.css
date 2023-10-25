@@ -15,8 +15,9 @@
 }
 .card{
     width: 25rem;
+    margin: auto;
     border-radius: 15px;
-    height: 600px
+    height: 400px
     }
     /************************Navbar section  ***************************/
     .header_wrapper .navbar{
@@ -100,7 +101,7 @@
     }
     .footer-box{
         color: aliceblue;
-        font-size: 15px;
+        font-size: 10px;
         border-left: 2px solid gray;
     }
     .footer1{
@@ -119,11 +120,36 @@
         position: relative;
         top:100px;
     }
+    @media (max-width:600px) {
+   
+        .section5{
+            text-align: center;
+            height: 800px;
+            position: relative;
+            top:1850px;
+            font-size: 10px;
+        
+        } 
+        
+        }
     @media(max-width:991px) {
-        .section5 {
+        .section5{
             text-align: center;
             position: relative;
-            height: 1000px;
+            font-size: 10px;
+            top: 200px;
+        }
+        .social{
+            width: 15px;
+            height: 15px;
+        }
+        .footer1{
+            width: 130px;
+            height:50px;
+        }
+        .footer{
+            position: relative;
+            top:80px;
         }
         .nav-item .btn{
             height: 40px;
@@ -150,9 +176,12 @@
             padding-top: 30px;
            
         }
+        .acha{
+            display: none;
+        }
         .card{
-            width:16rem;
-            height: 600px
+            font-size: 12px;
+            width: 15rem;
+            height: 400px
             }
-     
     }
